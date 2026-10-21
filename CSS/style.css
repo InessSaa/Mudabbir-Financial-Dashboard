@@ -80,6 +80,9 @@
   border-radius: 10px;
   border: 1px solid #9dc4f7;
 }
+.main-nav ul .active i {
+  color: var(--primary-color);
+}
 .main-nav li i {
   color: #6a7282;
 }
